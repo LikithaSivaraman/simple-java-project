@@ -34,6 +34,6 @@ This project is based on java application which helped me to understand the comp
  - └── Produce artifact
              |
              ↓
-          demo.jar
+         - demo.jar
 
  
