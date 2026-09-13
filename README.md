@@ -5,7 +5,8 @@
 This project is based on java application which helped me to understand the complete maven project architecture.
 
 ## Technologies:
-# 1) Maven
+# 
+1) Maven
 # 2) Java Application
 # 3) EC2 instance
 
@@ -30,3 +31,5 @@ This project is based on java application which helped me to understand the comp
              |
              ↓
           demo.jar
+
+ 
