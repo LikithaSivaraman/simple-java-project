@@ -1,4 +1,4 @@
-# simple-java-project
+# Simple-java-project
 
 ## Overview:
 
