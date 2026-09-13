@@ -21,7 +21,7 @@ This project is based on java application which helped me to understand the comp
 # mvn deploy
 
 ## Maven
-#|
+# |
  #   ├── Download dependencies
   #  ├── Compile
    # ├── Run tests
